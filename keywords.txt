@@ -1,0 +1,36 @@
+#######################################
+# Syntax Coloring DFRobot_NrfBle
+#######################################
+
+#######################################
+# Datatypes (KEYWORD1)
+#######################################
+
+DFRobot_NrfBle	KEYWORD1
+DFRobot_NrfBle_SPI	KEYWORD1
+
+#######################################
+# Methods and Functions (KEYWORD2)
+#######################################
+
+setModes	KEYWORD2
+setGroup	KEYWORD2
+sendData	KEYWORD2
+setCallback	KEYWORD2
+LOOP	KEYWORD2
+
+#######################################
+# Constants (LITERAL1)
+#######################################
+
+RADIO_MODE	LITERAL1
+BLE_MODE	LITERAL1
+PERIPHERAL_MODE	LITERAL1
+CERNTAL_MODE	LITERAL1
+KEYBOARD_MODE	LITERAL1
+RADIO_NUMBER	LITERAL1
+RADIO_STRING	LITERAL1
+RADIO_VALUE	LITERAL1
+KEYBOARD_NUMBER	LITERAL1
+BLE_STRING	LITERAL1
+ENABLE_DBG	LITERAL1
